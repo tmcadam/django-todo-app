@@ -1,4 +1,4 @@
-#!/home/mercy/django/venv/bin/python3
+#!/home/tmcadam/projects/django_docker_test/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
